@@ -1,0 +1,2 @@
+# smigbot
+learning the LLMs
